@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://binarybazooka.com/sitemap.xml 
